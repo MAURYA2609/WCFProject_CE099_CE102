@@ -1,0 +1,11 @@
+D:\SEM 6\SOC\Book Store\BookStoreService\BookStoreHost\bin\Debug\BookStoreHost.exe.config
+D:\SEM 6\SOC\Book Store\BookStoreService\BookStoreHost\bin\Debug\BookStoreHost.exe
+D:\SEM 6\SOC\Book Store\BookStoreService\BookStoreHost\bin\Debug\BookStoreHost.pdb
+D:\SEM 6\SOC\Book Store\BookStoreService\BookStoreHost\bin\Debug\BookStoreService.dll
+D:\SEM 6\SOC\Book Store\BookStoreService\BookStoreHost\bin\Debug\BookStoreService.pdb
+D:\SEM 6\SOC\Book Store\BookStoreService\BookStoreHost\bin\Debug\BookStoreService.dll.config
+D:\SEM 6\SOC\Book Store\BookStoreService\BookStoreHost\obj\Debug\BookStoreHost.csprojAssemblyReference.cache
+D:\SEM 6\SOC\Book Store\BookStoreService\BookStoreHost\obj\Debug\BookStoreHost.csproj.CoreCompileInputs.cache
+D:\SEM 6\SOC\Book Store\BookStoreService\BookStoreHost\obj\Debug\BookStoreHost.csproj.CopyComplete
+D:\SEM 6\SOC\Book Store\BookStoreService\BookStoreHost\obj\Debug\BookStoreHost.exe
+D:\SEM 6\SOC\Book Store\BookStoreService\BookStoreHost\obj\Debug\BookStoreHost.pdb

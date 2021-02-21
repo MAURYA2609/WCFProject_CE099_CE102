@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="207c246f-f1ba-44e5-8f51-28362cd94e9c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/BookStoreService/Service1/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="a2fcec2d-12ea-4ed3-81be-fd6a06a5994b" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/BookStoreService/Service1/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="71a87944-df41-4b86-9f9a-5506810d7e60" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/BookStoreService/Service1/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="e642fdc2-fb7c-4220-9032-7ff63821f9b1" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/BookStoreService/Service1/mex" />
+    <MetadataFile FileName="BookStoreService.xsd" MetadataType="Schema" ID="5d5d7af7-64a9-427a-98fa-68af9c1c4e9e" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/BookStoreService/Service1/mex" />
+    <MetadataFile FileName="service2.xsd" MetadataType="Schema" ID="3786063e-5610-4516-891b-9054d8f1bccb" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/BookStoreService/Service1/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

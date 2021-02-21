@@ -1,0 +1,7 @@
+D:\SEM 6\SOC\Book Store\BookStoreService\BookStoreService\bin\Debug\BookStoreService.dll.config
+D:\SEM 6\SOC\Book Store\BookStoreService\BookStoreService\bin\Debug\BookStoreService.dll
+D:\SEM 6\SOC\Book Store\BookStoreService\BookStoreService\bin\Debug\BookStoreService.pdb
+D:\SEM 6\SOC\Book Store\BookStoreService\BookStoreService\obj\Debug\BookStoreService.csprojAssemblyReference.cache
+D:\SEM 6\SOC\Book Store\BookStoreService\BookStoreService\obj\Debug\BookStoreService.csproj.CoreCompileInputs.cache
+D:\SEM 6\SOC\Book Store\BookStoreService\BookStoreService\obj\Debug\BookStoreService.dll
+D:\SEM 6\SOC\Book Store\BookStoreService\BookStoreService\obj\Debug\BookStoreService.pdb
